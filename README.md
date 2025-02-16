@@ -17,6 +17,13 @@ This project is a **similarity-based image search system** that enables efficien
 - **Accurate**: ResNet50 provides robust feature representations.
 - **Lightweight Storage**: SQLite efficiently manages metadata without complex database setups.
 
-## Demo
-
 This project is ideal for **reverse image search, content-based recommendation systems,** and **visual search applications**.
+
+## Demo Video 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DWbKI3PEZNs">
+    <img src="https://img.youtube.com/vi/DWbKI3PEZNs/maxresdefault.jpg" width="100%">
+  </a>
+</p>
+
+
